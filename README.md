@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jamshaidkhanniazi5965-ship-it/jamshaidkhanniazi5965-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Jamshaid Khan Niazi! 👋
 
-Here are some ideas to get you started:
+### Flutter Developer | BS Computer Science @ PIEAS | Founder @ Niazi Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamshaid-khan-niazi-34471a386)
+[![Play Store](https://img.shields.io/badge/Google_Play-Cric_Vibes_Live-brightgreen?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.niazicricket.app)
+
+</div>
+
+### 👨‍💻 About Me
+
+- 🎓 First-year **BS Computer Science** student at **PIEAS, Islamabad**
+- 📱 Independent Flutter developer — I build and **ship real apps**
+- 🏏 Cricket enthusiast who turned passion into a **published Android app**
+- 🚀 Founder of **Niazi Tech** — building useful mobile apps
+- 🌱 Currently learning: **Python, Git/GitHub, Advanced Flutter**
+- ⚡ Fun fact: I published my first app on Google Play in my **first year of university!**
+- 
+### 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🚀 Featured Project
+
+<table>
+<tr>
+<td width="100%">
+
+#### 🏏 [Cric Vibes Live](https://github.com/jamshaidkhanniazi5965-ship-it/cric-vibes-live)
+> A full-featured cricket companion app — **published on Google Play Store**
+
+**Features:** Live Scores · ICC Rankings · Player Search & Stats · Cricket News · Match Schedule · Player Comparison · Create Tournament · World Records · Cricket Rules
+
+**Tech:** Flutter · Dart · Firebase · Firestore · REST API · FCM · Git
+
+[![Play Store](https://img.shields.io/badge/Download-Google_Play-brightgreen?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.niazicricket.app)
+[![Repo](https://img.shields.io/badge/View-Repository-black?style=flat&logo=github)](https://github.com/jamshaidkhanniazi5965-ship-it/cric-vibes-live)
+
+</td>
+</tr>
+</table>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Jamshaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamshaidkhanniazi5965-ship-it&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamshaidkhanniazi5965-ship-it&layout=compact&theme=dark&hide_border=true)
+</div>
+### 🎯 Currently Working On
+- 🔧 Improving **Cric Vibes Live** based on user feedback
+- 📚 Self-studying **Python** via Google Crash Course on Coursera
+- 💡 Planning next Flutter project under **Niazi Tech**
+<div align="center">
+**💬 Open to internship opportunities in Flutter / Mobile App Development!**
+📧 jamshaidkhanniazi.5965@gmail.com
+*"Ship it, then improve it."* 🚀
+</div>
