@@ -48,15 +48,6 @@
 </td>
 </tr>
 </table>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Jamshaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamshaidkhanniazi5965-ship-it&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamshaidkhanniazi5965-ship-it&layout=compact&theme=dark&hide_border=true)
-</div>
 ### 🎯 Currently Working On
 - 🔧 Improving **Cric Vibes Live** based on user feedback
 - 📚 Self-studying **Python** via Google Crash Course on Coursera
