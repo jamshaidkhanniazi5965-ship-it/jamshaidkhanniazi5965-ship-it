@@ -15,13 +15,15 @@
 - 📱 Independent Flutter developer — I build and **ship real apps**
 - 🏏 Cricket enthusiast who turned passion into a **published Android app**
 - 🚀 Founder of **Niazi Tech** — building useful mobile apps
-- 🌱 Currently learning: **Python, Git/GitHub, Advanced Flutter**
+- 🐍 Completed the **Python Crash Course (Google)** on Coursera
+- 🌱 Currently learning: **Git/GitHub, Advanced Flutter**
 - ⚡ Fun fact: I published my first app on Google Play in my **first year of university!**
-- 
+
 ### 🛠️ Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -36,6 +38,7 @@
 <td width="100%">
 
 #### 🏏 [Cric Vibes Live](https://github.com/jamshaidkhanniazi5965-ship-it/cric-vibes-live)
+
 > A full-featured cricket companion app — **published on Google Play Store**
 
 **Features:** Live Scores · ICC Rankings · Player Search & Stats · Cricket News · Match Schedule · Player Comparison · Create Tournament · World Records · Cricket Rules
@@ -48,12 +51,19 @@
 </td>
 </tr>
 </table>
+
 ### 🎯 Currently Working On
+
 - 🔧 Improving **Cric Vibes Live** based on user feedback
-- 📚 Self-studying **Python** via Google Crash Course on Coursera
+- 🐍 Applying **Python** skills to new scripts and tooling
 - 💡 Planning next Flutter project under **Niazi Tech**
+
 <div align="center">
+
 **💬 Open to internship opportunities in Flutter / Mobile App Development!**
+
 📧 jamshaidkhanniazi.5965@gmail.com
+
 *"Ship it, then improve it."* 🚀
+
 </div>
