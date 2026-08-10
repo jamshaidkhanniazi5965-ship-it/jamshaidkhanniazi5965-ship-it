@@ -64,6 +64,4 @@
 
 📧 jamshaidkhanniazi.5965@gmail.com
 
-*"Ship it, then improve it."* 🚀
-
 </div>
