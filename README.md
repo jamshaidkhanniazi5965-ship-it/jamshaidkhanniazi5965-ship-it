@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jamshaid Khan Niazi! 👋
+# Hi there, I'm Jamshaid Khan Niazi! 
 
 ### Flutter Developer | BS Computer Science @ PIEAS | Founder @ Niazi Tech
 
