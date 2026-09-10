@@ -65,4 +65,3 @@
 📧 jamshaidkhanniazi.5965@gmail.com
 
 </div>
-,this my repo of portfolio update it reomve profile pic and add this project also and in siklls add Desktop Application development also ,keep all other things same as it is except them
