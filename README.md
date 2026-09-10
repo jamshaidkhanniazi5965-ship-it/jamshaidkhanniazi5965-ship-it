@@ -30,8 +30,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Desktop App Development](https://img.shields.io/badge/Desktop_App_Development-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 <table>
 <tr>
@@ -47,6 +49,21 @@
 
 [![Play Store](https://img.shields.io/badge/Download-Google_Play-brightgreen?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.niazicricket.app)
 [![Repo](https://img.shields.io/badge/View-Repository-black?style=flat&logo=github)](https://github.com/jamshaidkhanniazi5965-ship-it/cric-vibes-live)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 🏪 [Lateef Book Depo — Shop Manager](https://github.com/jamshaidkhanniazi5965-ship-it/lateef-book-depo-shop-manager)
+
+> An offline-first POS, inventory & Udhaar (credit) management desktop app — my **first paid client project**
+
+**Features:** Billing & Checkout · Multiple Payment Methods · Udhaar (Credit) Ledger · Inventory Management · Thermal Receipt Printing · Reports & Analytics · Offline-First
+
+**Tech:** Flutter · Dart · Drift (SQLite) · Windows Desktop · Inno Setup
+
+[![Repo](https://img.shields.io/badge/View-Repository-black?style=flat&logo=github)](https://github.com/jamshaidkhanniazi5965-ship-it/lateef-book-depo-shop-manager)
 
 </td>
 </tr>
