@@ -30,9 +30,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Desktop App Development](https://img.shields.io/badge/Desktop_App_Development-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
 <table>
 <tr>
@@ -51,21 +50,6 @@
 
 </td>
 </tr>
-<tr>
-<td width="100%">
-
-#### 🏪 [Lateef Book Depo — Shop Manager](https://github.com/jamshaidkhanniazi5965-ship-it/lateef-book-depo-shop-manager)
-
-> An offline-first POS, inventory & Udhaar (credit) management desktop app — my **first paid client project**
-
-**Features:** Billing & Checkout · Multiple Payment Methods · Udhaar (Credit) Ledger · Inventory Management · Thermal Receipt Printing · Reports & Analytics · Offline-First
-
-**Tech:** Flutter · Dart · Drift (SQLite) · Windows Desktop · Inno Setup
-
-[![Repo](https://img.shields.io/badge/View-Repository-black?style=flat&logo=github)](https://github.com/jamshaidkhanniazi5965-ship-it/lateef-book-depo-shop-manager)
-
-</td>
-</tr>
 </table>
 
 ### 🎯 Currently Working On
@@ -81,3 +65,4 @@
 📧 jamshaidkhanniazi.5965@gmail.com
 
 </div>
+,this my repo of portfolio update it reomve profile pic and add this project also and in siklls add Desktop Application development also ,keep all other things same as it is except them
