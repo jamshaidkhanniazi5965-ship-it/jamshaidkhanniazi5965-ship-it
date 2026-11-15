@@ -14,7 +14,7 @@
 - 🎓 **BS Computer Science** student at **PIEAS, Islamabad** (3rd semester, graduating 2029)
 - 👥 **App Development Lead** at **Google Developer Groups on Campus (GDGoC) PIEAS** for 2026–27
 - 📱 Independent Flutter developer — I build and **ship real apps**
-- 🌐 Freelance web developer — I build websites and Shopify stores for **real clients in Australia and the USA**
+- 🌐 Freelance web developer — I build websites and Shopify stores for **international clients**
 - 🏏 Cricket enthusiast who turned passion into a **published Android app**
 - 🚀 Founder of **Niazi Tech** — building useful mobile apps and websites
 - 🐍 Completed the **Python Crash Course (Google)** on Coursera
@@ -88,7 +88,7 @@
 
 #### 🏛️ [Haddad Empire — Agency Website](https://github.com/jamshaidkhanniazi5965-ship-it/haddadempire.com.au_showcase)
 
-> A premium, heritage-style website for a Sydney media, promotional & outreach agency — **client project, live**
+> A premium, heritage-style website for a media, promotional & outreach agency — **client project, live**
 
 **Features:** Custom Brand Design · Founder Story · Services Showcase · Business Ecosystem · Contact Form + Email/WhatsApp/SMS · Digital Business Cards (vCard + QR) · SEO · Security Headers · Fully Responsive
 
@@ -104,7 +104,7 @@
 
 #### 💎 [Germani Jewellery — Website](https://github.com/jamshaidkhanniazi5965-ship-it/Jewellery-website-showcase)
 
-> A luxury website for a Sydney jewellery house & jewellery academy — **client project, live**
+> A luxury website for a jewellery house & jewellery academy — **client project, live**
 
 **Features:** Collections Gallery with Filters · Bespoke & Engagement Rings · Academy & Prospectus Pages · Appointment Booking Form · Digital Business Card (vCard + QR) · SEO
 
@@ -121,9 +121,9 @@
 
 #### 📞 [BDM To You — Business Website](https://github.com/jamshaidkhanniazi5965-ship-it/BDM-to-you-website-showcase)
 
-> A website for an Australia-wide outsourced Business Development Manager service — **client project**
+> A website for an outsourced Business Development Manager service — **client project**
 
-**Features:** Services (Database Reactivation · Cold & Warm Calling) · Industries · Results · Interactive Australia Map · Free Consultation Booking · Responsive Design
+**Features:** Services (Database Reactivation · Cold & Warm Calling) · Industries · Results · Interactive Service-Area Map · Free Consultation Booking · Responsive Design
 
 **Tech:** HTML5 · CSS3 · JavaScript
 
@@ -137,7 +137,7 @@
 
 #### 🎂 [We Decorate Kakes (Mark Bakery) — Shopify Website](https://github.com/jamshaidkhanniazi5965-ship-it/wdk-shopify-showcase)
 
-> A retail & wholesale Shopify website for a family-owned US bakery, baking since 1976 — **client project**
+> A retail & wholesale Shopify website for a family-owned bakery, baking since 1976 — **client project**
 
 **Features:** Retail & Wholesale Product Templates · Request Samples & Contact Sales · Product Catalog · Bakery Knowledge Center · 14 Downloadable Sell Sheets · 11 Inquiry Forms · Local SEO (JSON-LD) · Mobile-Friendly
 
