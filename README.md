@@ -2,7 +2,7 @@
 
 # Jamshaid Khan Niazi
 
-### Flutter & Web Developer | Freelancer | BS Computer Science @ PIEAS | Founder @ Niazi Tech
+### Flutter & Web Developer | App Development Lead @ GDGoC PIEAS | Freelancer | BS CS @ PIEAS | Founder @ Niazi Tech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamshaid-khan-niazi-34471a386)
 [![Play Store](https://img.shields.io/badge/Google_Play-Cric_Vibes_Live-brightgreen?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.niazicricket.app)
@@ -11,7 +11,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 First-year **BS Computer Science** student at **PIEAS, Islamabad**
+- 🎓 **BS Computer Science** student at **PIEAS, Islamabad** (3rd semester, graduating 2029)
+- 👥 **App Development Lead** at **Google Developer Groups on Campus (GDGoC) PIEAS** for 2026–27
 - 📱 Independent Flutter developer — I build and **ship real apps**
 - 🌐 Freelance web developer — I build websites and Shopify stores for **real clients in Australia and the USA**
 - 🏏 Cricket enthusiast who turned passion into a **published Android app**
