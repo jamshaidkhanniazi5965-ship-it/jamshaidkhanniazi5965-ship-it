@@ -132,6 +132,27 @@
 
 </td>
 </tr>
+</table>
+
+### 🛒 Shopify Stores
+
+<table>
+<tr>
+<td width="100%">
+
+#### 🛍️ [SleyMart — Fashion Dropshipping Store](https://github.com/jamshaidkhanniazi5965-ship-it/SleyMart-Shopify-Store-Showcase)
+
+> A complete Shopify store selling shoes and clothing for women and men — **client project, delivered**
+
+**Features:** Custom Dawn-based Theme · Announcement Ticker · Hero Slideshow · Shop by Category · 99 Products via CJdropshipping · 7 Automated Collections · Newsletter with Welcome Discount · Mobile-Friendly
+
+**Tech:** Shopify (Online Store 2.0) · Liquid · CJdropshipping · Python
+
+![Status](https://img.shields.io/badge/Status-Delivered-2ea44f?style=flat)
+[![Repo](https://img.shields.io/badge/View-Showcase-black?style=flat&logo=github)](https://github.com/jamshaidkhanniazi5965-ship-it/SleyMart-Shopify-Store-Showcase)
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
